@@ -1,10 +1,11 @@
 {
   "Genesis": 1635455600,
   "Seed_Elder_Node_List": [
-    [ "dtp.dtpoint.xyz",
-      "dtp2.dtpoint.xyz",
-      "dtp3.dtpoint.xyz",
-      "******.onion"
+    [ 
+      "dtp.dtpoint.xyz/.well-known/dtpoint/nodeinfo.json",
+      "dtp2.dtpoint.xyz/.well-known/dtpoint/nodeinfo.json",
+      "dtp3.dtpoint.xyz/.well-known/dtpoint/nodeinfo.json",
+      "******.onion/.well-known/dtpoint/nodeinfo.json"
     ],
   ], 
     
