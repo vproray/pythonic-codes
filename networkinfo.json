@@ -1,7 +1,7 @@
 {
   "Genesis": 1635455600,
   "Seed_Elder_Node_List": [
-    [ 
+    [ "raw.githubusercontent.com/vproray/pythonic-codes/main/nodeinfo.json",
       "dtp.dtpoint.xyz/.well-known/dtpoint/nodeinfo.json",
       "dtp2.dtpoint.xyz/.well-known/dtpoint/nodeinfo.json",
       "dtp3.dtpoint.xyz/.well-known/dtpoint/nodeinfo.json",
