@@ -1,0 +1,10 @@
+{
+  "Genesis": ,
+  "Seed_Elder_Node": [
+    [ "dtp.dtpoint.xyz/.well-known/dtpoint/nodeinfo.json",
+      "90.255.233.82:38801/.well-known/dtpoint/nodeinfo.json",
+      "******.onion/.well-known/dtpoint/nodeinfo.json"
+    ],
+  ], 
+    
+}
